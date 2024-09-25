@@ -1,5 +1,5 @@
 Bold each of the Glossary words as you use them. BOLD only the glossary word.
-* Branch
+* **Branch**
 * Clone
 * Commit
 * Fetch
